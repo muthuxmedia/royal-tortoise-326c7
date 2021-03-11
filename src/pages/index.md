@@ -30,16 +30,8 @@ sections:
           all small and medium companies
         image: images/im-1.svg
         image_alt: App preview on a phone and tablet
-        content: >
-          \<p>The depth of integration within Scopex helps users to reduce
-          redundant manual process. Every module is interconnected to provide an
-          integrated experience from app to app, and users can autonate many
-          process that would otherwise require manual inputs into multiple
-          applications.\</p>
-
-
-          \<p>Scopex keeps all business functions in one place allowing teams to
-          collaborate with other departments from one unified platform.\</p>
+        content: |
+          ## fdgdf
         actions:
           - label: Learn More
             url: /features
