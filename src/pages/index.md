@@ -63,7 +63,7 @@ sections:
         actions: []
         type: feature_item
       - title: Scopex ERP Solutions
-        image: images/10_thumb.jpg
+        image: images/remarkable-whale.svg
         image_alt: App users welcoming a new member
         content: >
           The depth of integration within Scopex helps users to reduce redundant
