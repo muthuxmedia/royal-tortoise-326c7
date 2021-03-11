@@ -25,7 +25,9 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: The Best Feature of Your Services
+      - title: >-
+          Scopex, designed carefully to address end-to-end management needs of
+          all small and medium companies
         image: images/im-1.svg
         image_alt: App preview on a phone and tablet
         content: >
