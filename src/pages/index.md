@@ -7,8 +7,7 @@ sections:
     image_alt: App preview
     title: Manage all your Business
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+      FunctionS with just ONE SOFTWARE
     actions:
       - label: Learn More
         url: /features
