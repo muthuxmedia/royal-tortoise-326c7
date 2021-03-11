@@ -62,7 +62,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: Awesome Feature of Your Services
+      - title: Scopex ERP Solutions
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
