@@ -26,7 +26,7 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: The Best Feature of Your Services
-        image: images/im-2.svg
+        image: images/im-1.svg
         image_alt: App preview on a phone and tablet
         content: >
           ## Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
