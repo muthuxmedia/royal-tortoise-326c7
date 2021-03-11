@@ -24,7 +24,11 @@ export default class SectionFeatures extends React.Component {
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
                 <div key={feature_idx} className="block-item">
                   <div className="grid">
-                    
+                     {_.get(feature, 'image', null) && (
+                    <div className="cell block-preview">
+                      <img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} />
+                    </div>
+                    )}
                     <div className="cell block-content">
                       <h3 className="block-title underline">{_.get(feature, 'title', null)}</h3>
                       <div className="block-copy">
@@ -37,11 +41,7 @@ export default class SectionFeatures extends React.Component {
                       )}
                     </div>
 
-                    {_.get(feature, 'image', null) && (
-                    <div className="cell block-preview">
-                      <img src={withPrefix(_.get(feature, 'image', null))} alt={_.get(feature, 'image_alt', null)} />
-                    </div>
-                    )}
+                   
                   </div>
                 </div>
                 ))}
