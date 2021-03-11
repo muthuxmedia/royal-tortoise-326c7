@@ -9,7 +9,7 @@ export default class SectionFeatures extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section id={_.get(section, 'section_id', null)} className={'block features-block bg-' + _.get(section, 'background', null) + ' outer'}>
-              <div className="block-header inner-small">
+              {/* <div className="block-header inner-small">
                 {_.get(section, 'title', null) && (
                 <h2 className="block-title">{_.get(section, 'title', null)}</h2>
                 )}
@@ -18,7 +18,7 @@ export default class SectionFeatures extends React.Component {
                   {htmlToReact(_.get(section, 'subtitle', null))}
                 </p>
                 )}
-              </div>
+              </div> */}
               {_.get(section, 'features', null) && (
               <div className="inner">
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
