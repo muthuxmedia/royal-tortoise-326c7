@@ -65,10 +65,16 @@ sections:
       - title: Scopex ERP Solutions
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          The depth of integration within Scopex helps users to reduce redundant
+          manual process. Every module is interconnected to provide an
+          integrated experience from app to app, and users can autonate many
+          process that would otherwise require manual inputs into multiple
+          applications.
+
+
+          Scopex keeps all business functions in one place allowing teams to
+          collaborate with other departments from one unified platform.
         actions:
           - label: Learn More
             url: /features
