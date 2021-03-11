@@ -39,7 +39,7 @@ export default class SectionFeatures extends React.Component {
                         <CtaButtons {...this.props} actions={_.get(feature, 'actions', null)} />
                       </div>
                       )}
-                    </div>
+                    </div>l
                   </div>
                 </div>
                 ))}
