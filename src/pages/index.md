@@ -3,11 +3,10 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/im1.svg
     image_alt: App preview
     title: Manage all your Business
-    content: >-
-      FunctionS with just ONE SOFTWARE
+    content: FunctionS with just ONE SOFTWARE
     actions:
       - label: Get Started
         url: /features
