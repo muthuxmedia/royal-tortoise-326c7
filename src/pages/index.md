@@ -9,7 +9,7 @@ sections:
     content: >-
       FunctionS with just ONE SOFTWARE
     actions:
-      - label: Learn More
+      - label: Get Started
         url: /features
         style: primary
   - section_id: lorem-ipsum
