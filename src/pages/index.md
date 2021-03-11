@@ -85,10 +85,16 @@ sections:
       - title: Scopex integration
         image: images/Scopex Integration.svg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          The depth of integration within Scopex helps users to reduce redundant
+          manual process. Every module is interconnected to provide an
+          integrated experience from app to app, and users can autonate many
+          process that would otherwise require manual inputs into multiple
+          applications.
+
+
+          Scopex keeps all business functions in one place allowing teams to
+          collaborate with other departments from one unified platform.
         actions:
           - label: Learn More
             url: /features
