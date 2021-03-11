@@ -17,18 +17,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
-    features:
-      - title: lorem-ipsum
-        content: |
-          ## Lorem ipsum
-
-          sdfdsafds dolore magna aliqua.
-
-          *   Lorem ipsum
-          *   dolor sit amet
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
+    features: []
     type: section_features
   - section_id: features
     type: section_features
