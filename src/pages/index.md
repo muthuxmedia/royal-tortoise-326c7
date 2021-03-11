@@ -62,6 +62,21 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
       - title: Scopex ERP Solutions
         image: images/elite-avocado.svg
         image_alt: App users welcoming a new member
