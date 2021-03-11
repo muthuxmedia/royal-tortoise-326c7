@@ -19,7 +19,7 @@ export default class SectionFeatures extends React.Component {
                 </p>
                 )}
               </div>
-              {/* {_.get(section, 'features', null) && (
+              {_.get(section, 'features', null) && (
               <div className="inner">
                 {_.map(_.get(section, 'features', null), (feature, feature_idx) => (
                 <div key={feature_idx} className="block-item">
@@ -46,7 +46,7 @@ export default class SectionFeatures extends React.Component {
                 </div>
                 ))}
                 </div>
-              )} */}
+              )}
             </section>
         );
     }
